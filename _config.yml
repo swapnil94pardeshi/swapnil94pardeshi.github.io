@@ -3,13 +3,13 @@ logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b style="border:2px solid Tomato;">API Tester at Spitertech LLP Nashik.</b>
   having 3 Years of experience in API testing and UI Testing
-  <br><br>
+  <br>
   <b style="border:2px solid Tomato;">Building Brahmand Edutech</b> <br>
   India's First AI Enabled Test Preparation Platform for Primary and Secondary Schools.
   <br>
   <b style="border:2px solid Tomato;">Enthusiast Data Preneur</b> <br>
   Implementing Different Machine Learning Algorithms
   <br>
-  <a href="https://www.linkedin.com/in/swapnil-pardeshi-60a85a78/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/swapnil-pardeshi-60a85a78/"><i style="font-size:24px" class="fa">&#xf08c;</i></a> 
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
